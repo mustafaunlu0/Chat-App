@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "538353461566",
+    "project_id": "chat-app-25275",
+    "storage_bucket": "chat-app-25275.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538353461566:android:ff574210134020eafa646f",
+        "android_client_info": {
+          "package_name": "com.mustafaunlu.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538353461566-8uum00lu1cmvjnu5ikelq8f81usqeib5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALqxgL6wNvT9Nt4YTlsKgV4AKXN4n1Ucc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538353461566-8uum00lu1cmvjnu5ikelq8f81usqeib5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
